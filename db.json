@@ -1,0 +1,137 @@
+{
+	"auth": {
+		"name": "user 1",
+		"email": "user1@mail.com",
+		"password": "user1"
+	},
+	"register": {
+		"name": "user 1",
+		"email": "user1@mail.com",
+		"password": "user1"
+	},
+	"profile": {
+		"id": 1,
+		"user": {
+			"id": 1,
+			"name": "user 1",
+			"email": "user1@mail.com",
+			"password": "user1"
+		}
+	},
+	"events": [
+		{
+			"id": 1,
+			"event": {
+				"id": 1,
+				"name": "Event 1",
+				"hosted_by": "user 1",
+				"date": "20 July 2022",
+				"location": "Jakarta",
+				"details": "lorem ipsum dolor sit amet."
+			}
+		},
+		{
+			"id": 2,
+			"event": {
+				"id": 2,
+				"name": "Event 2",
+				"hosted_by": "user 2",
+				"date": "21 July 2022",
+				"location": "Bandung",
+				"details": "lorem ipsum dolor sit amet."
+			}
+		},
+		{
+			"id": 3,
+			"event": {
+				"id": 3,
+				"name": "Event 3",
+				"hosted_by": "user 3",
+				"date": "22 July 2022",
+				"location": "Surabaya",
+				"details": "lorem ipsum dolor sit amet."
+			}
+		},
+		{
+			"id": 4,
+			"event": {
+				"id": 4,
+				"name": "Event 4",
+				"hosted_by": "user 4",
+				"date": "23 July 2022",
+				"location": "Jambi",
+				"details": "lorem ipsum dolor sit amet."
+			}
+		},
+		{
+			"id": 5,
+			"event": {
+				"id": 5,
+				"name": "Event 5",
+				"hosted_by": "user 5",
+				"date": "24 July 2022",
+				"location": "Batam",
+				"details": "lorem ipsum dolor sit amet."
+			}
+		},
+		{
+			"id": 6,
+			"event": {
+				"id": 6,
+				"name": "Event 6",
+				"hosted_by": "user 6",
+				"date": "25 July 2022",
+				"location": "Padang",
+				"details": "lorem ipsum dolor sit amet."
+			}
+		},
+		{
+			"id": 7,
+			"event": {
+				"id": 7,
+				"name": "Event 7",
+				"hosted_by": "user 7",
+				"date": "26 July 2022",
+				"location": "Aceh",
+				"details": "lorem ipsum dolor sit amet."
+			}
+		},
+		{
+			"id": 8,
+			"event": {
+				"id": 8,
+				"name": "Event 8",
+				"hosted_by": "user 8",
+				"date": "27 July 2022",
+				"location": "Palembang",
+				"details": "lorem ipsum dolor sit amet."
+			}
+		},
+		{
+			"id": 9,
+			"event": {
+				"id": 9,
+				"name": "Event 9",
+				"hosted_by": "user 9",
+				"date": "28 July 2022",
+				"location": "Balikpapan",
+				"details": "lorem ipsum dolor sit amet."
+			}
+		},
+		{
+			"id": 10,
+			"event": {
+				"id": 10,
+				"name": "Event 10",
+				"hosted_by": "user 10",
+				"date": "28 July 2022",
+				"location": "Cileungsi",
+				"details": "lorem ipsum dolor sit amet."
+			}
+		}
+	],
+	"comments": {
+		"name": "user1",
+		"comment": "lorem ipsum dolor sit amet"
+	}
+}
