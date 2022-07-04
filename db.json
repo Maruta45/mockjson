@@ -106,120 +106,120 @@
 			"id": 1,
 			"event": {
 				"id": 1,
-				"name": "Weightlifting",
-				"image": "https://images.unsplash.com/photo-1556817411-31ae72fa3ea0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8c3BvcnR8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+				"name": "Concert At Jakarta",
+				"image": "https://images.unsplash.com/photo-1506157786151-b8491531f063?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ZmVzdGl2YWx8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
 				"hosted_by": "user 1",
 				"date": "20 July 2022",
 				"location": "Jakarta",
-				"details": "lorem ipsum dolor sit amet."
+				"details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam dictum justo efficitur iaculis egestas. Nam et turpis lacinia, condimentum arcu eu, volutpat eros. Aliquam mattis neque et vulputate scelerisque. Sed pharetra laoreet accumsan. Donec facilisis nunc tellus. In posuere nisi arcu, a consequat lorem posuere sed. Quisque in rutrum metus. Nam at augue in nisi tincidunt pulvinar ornare eu nisl. Vivamus faucibus fermentum consectetur."
 			}
 		},
 		{
 			"id": 2,
 			"event": {
 				"id": 2,
-				"name": "Ski",
-				"image": "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8c2tpfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+				"name": "Night Concert",
+				"image": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8ZmVzdGl2YWwlMjBtdXNpY3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
 				"hosted_by": "user 2",
 				"date": "21 July 2022",
 				"location": "Bandung",
-				"details": "lorem ipsum dolor sit amet."
+				"details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam dictum justo efficitur iaculis egestas. Nam et turpis lacinia, condimentum arcu eu, volutpat eros. Aliquam mattis neque et vulputate scelerisque. Sed pharetra laoreet accumsan. Donec facilisis nunc tellus. In posuere nisi arcu, a consequat lorem posuere sed. Quisque in rutrum metus. Nam at augue in nisi tincidunt pulvinar ornare eu nisl. Vivamus faucibus fermentum consectetur."
 			}
 		},
 		{
 			"id": 3,
 			"event": {
 				"id": 3,
-				"name": "Games",
-				"image": "https://images.unsplash.com/photo-1511512578047-dfb367046420?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Z2FtZXN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+				"name": "School Concert",
+				"image": "https://images.unsplash.com/photo-1519530782816-ba0c305fbb0d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fGZlc3RpdmFsJTIwbXVzaWN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
 				"hosted_by": "user 3",
 				"date": "22 July 2022",
 				"location": "Surabaya",
-				"details": "lorem ipsum dolor sit amet."
+				"details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam dictum justo efficitur iaculis egestas. Nam et turpis lacinia, condimentum arcu eu, volutpat eros. Aliquam mattis neque et vulputate scelerisque. Sed pharetra laoreet accumsan. Donec facilisis nunc tellus. In posuere nisi arcu, a consequat lorem posuere sed. Quisque in rutrum metus. Nam at augue in nisi tincidunt pulvinar ornare eu nisl. Vivamus faucibus fermentum consectetur."
 			}
 		},
 		{
 			"id": 4,
 			"event": {
 				"id": 4,
-				"name": "Reunion",
-				"image": "https://images.unsplash.com/photo-1632494033254-48f55f00304a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cmV1bmlvbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+				"name": "Musical Performance",
+				"image": "https://images.unsplash.com/photo-1523048970790-3db7ed9e6b6f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTl8fGZlc3RpdmFsJTIwbXVzaWN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
 				"hosted_by": "user 4",
 				"date": "23 July 2022",
 				"location": "Jambi",
-				"details": "lorem ipsum dolor sit amet."
+				"details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam dictum justo efficitur iaculis egestas. Nam et turpis lacinia, condimentum arcu eu, volutpat eros. Aliquam mattis neque et vulputate scelerisque. Sed pharetra laoreet accumsan. Donec facilisis nunc tellus. In posuere nisi arcu, a consequat lorem posuere sed. Quisque in rutrum metus. Nam at augue in nisi tincidunt pulvinar ornare eu nisl. Vivamus faucibus fermentum consectetur."
 			}
 		},
 		{
 			"id": 5,
 			"event": {
 				"id": 5,
-				"name": "Code",
-				"image": "https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Y29kZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+				"name": "DJ Performance",
+				"image": "https://images.unsplash.com/photo-1516873240891-4bf014598ab4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTkzfHxmZXN0aXZhbCUyMG11c2ljfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
 				"hosted_by": "user 5",
 				"date": "24 July 2022",
 				"location": "Batam",
-				"details": "lorem ipsum dolor sit amet."
+				"details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam dictum justo efficitur iaculis egestas. Nam et turpis lacinia, condimentum arcu eu, volutpat eros. Aliquam mattis neque et vulputate scelerisque. Sed pharetra laoreet accumsan. Donec facilisis nunc tellus. In posuere nisi arcu, a consequat lorem posuere sed. Quisque in rutrum metus. Nam at augue in nisi tincidunt pulvinar ornare eu nisl. Vivamus faucibus fermentum consectetur."
 			}
 		},
 		{
 			"id": 6,
 			"event": {
 				"id": 6,
-				"name": "Meeting",
-				"image": "https://images.unsplash.com/photo-1552581234-26160f608093?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8bWVldGluZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+				"name": "Concert Reggae",
+				"image": "https://images.unsplash.com/photo-1511766852612-68b47d946def?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTk0fHxmZXN0aXZhbCUyMG11c2ljfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
 				"hosted_by": "user 6",
 				"date": "25 July 2022",
 				"location": "Padang",
-				"details": "lorem ipsum dolor sit amet."
+				"details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam dictum justo efficitur iaculis egestas. Nam et turpis lacinia, condimentum arcu eu, volutpat eros. Aliquam mattis neque et vulputate scelerisque. Sed pharetra laoreet accumsan. Donec facilisis nunc tellus. In posuere nisi arcu, a consequat lorem posuere sed. Quisque in rutrum metus. Nam at augue in nisi tincidunt pulvinar ornare eu nisl. Vivamus faucibus fermentum consectetur."
 			}
 		},
 		{
 			"id": 7,
 			"event": {
 				"id": 7,
-				"name": "Design",
-				"image": "https://images.unsplash.com/photo-1613909207039-6b173b755cc1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8ZGVzaWduZXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+				"name": "80's Concert",
+				"image": "https://images.unsplash.com/photo-1501742441374-24d7a886bb28?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjMwfHxmZXN0aXZhbCUyMG11c2ljfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
 				"hosted_by": "user 7",
 				"date": "26 July 2022",
 				"location": "Aceh",
-				"details": "lorem ipsum dolor sit amet."
+				"details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam dictum justo efficitur iaculis egestas. Nam et turpis lacinia, condimentum arcu eu, volutpat eros. Aliquam mattis neque et vulputate scelerisque. Sed pharetra laoreet accumsan. Donec facilisis nunc tellus. In posuere nisi arcu, a consequat lorem posuere sed. Quisque in rutrum metus. Nam at augue in nisi tincidunt pulvinar ornare eu nisl. Vivamus faucibus fermentum consectetur."
 			}
 		},
 		{
 			"id": 8,
 			"event": {
 				"id": 8,
-				"name": "Donation",
-				"image": "https://images.unsplash.com/photo-1591522810850-58128c5fb089?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGRvbmF0aW9ufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+				"name": "Kopikustik",
+				"image": "https://images.unsplash.com/photo-1517305542662-2dd61accb41d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjc0fHxmZXN0aXZhbCUyMG11c2ljfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
 				"hosted_by": "user 8",
 				"date": "27 July 2022",
 				"location": "Palembang",
-				"details": "lorem ipsum dolor sit amet."
+				"details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam dictum justo efficitur iaculis egestas. Nam et turpis lacinia, condimentum arcu eu, volutpat eros. Aliquam mattis neque et vulputate scelerisque. Sed pharetra laoreet accumsan. Donec facilisis nunc tellus. In posuere nisi arcu, a consequat lorem posuere sed. Quisque in rutrum metus. Nam at augue in nisi tincidunt pulvinar ornare eu nisl. Vivamus faucibus fermentum consectetur."
 			}
 		},
 		{
 			"id": 9,
 			"event": {
 				"id": 9,
-				"name": "Saving the ocean",
-				"image": "https://images.unsplash.com/photo-1639374550500-e45ebd7167f2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8Y2xlYW5pbmclMjBiZWFjaHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+				"name": "Indie Fest",
+				"image": "https://images.unsplash.com/photo-1612729829113-59e5c3a3d107?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzUyfHxmZXN0aXZhbCUyMG11c2ljfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
 				"hosted_by": "user 9",
 				"date": "28 July 2022",
 				"location": "Balikpapan",
-				"details": "lorem ipsum dolor sit amet."
+				"details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam dictum justo efficitur iaculis egestas. Nam et turpis lacinia, condimentum arcu eu, volutpat eros. Aliquam mattis neque et vulputate scelerisque. Sed pharetra laoreet accumsan. Donec facilisis nunc tellus. In posuere nisi arcu, a consequat lorem posuere sed. Quisque in rutrum metus. Nam at augue in nisi tincidunt pulvinar ornare eu nisl. Vivamus faucibus fermentum consectetur."
 			}
 		},
 		{
 			"id": 10,
 			"event": {
 				"id": 10,
-				"name": "Wedding",
-				"image": "https://images.unsplash.com/photo-1606800052052-a08af7148866?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8d2VkZGluZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+				"name": "World Music Fest",
+				"image": "https://images.unsplash.com/photo-1576747249530-46bc7b93ed61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDMwfHxmZXN0aXZhbCUyMG11c2ljfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
 				"hosted_by": "user 10",
 				"date": "28 July 2022",
 				"location": "Cileungsi",
-				"details": "lorem ipsum dolor sit amet."
+				"details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam dictum justo efficitur iaculis egestas. Nam et turpis lacinia, condimentum arcu eu, volutpat eros. Aliquam mattis neque et vulputate scelerisque. Sed pharetra laoreet accumsan. Donec facilisis nunc tellus. In posuere nisi arcu, a consequat lorem posuere sed. Quisque in rutrum metus. Nam at augue in nisi tincidunt pulvinar ornare eu nisl. Vivamus faucibus fermentum consectetur."
 			}
 		}
 	],
