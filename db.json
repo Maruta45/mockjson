@@ -106,7 +106,8 @@
 			"id": 1,
 			"event": {
 				"id": 1,
-				"name": "Event 1",
+				"name": "Weightlifting",
+				"image": "https://images.unsplash.com/photo-1556817411-31ae72fa3ea0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8c3BvcnR8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
 				"hosted_by": "user 1",
 				"date": "20 July 2022",
 				"location": "Jakarta",
@@ -117,7 +118,8 @@
 			"id": 2,
 			"event": {
 				"id": 2,
-				"name": "Event 2",
+				"name": "Ski",
+				"image": "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8c2tpfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
 				"hosted_by": "user 2",
 				"date": "21 July 2022",
 				"location": "Bandung",
@@ -128,7 +130,8 @@
 			"id": 3,
 			"event": {
 				"id": 3,
-				"name": "Event 3",
+				"name": "Games",
+				"image": "https://images.unsplash.com/photo-1511512578047-dfb367046420?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Z2FtZXN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
 				"hosted_by": "user 3",
 				"date": "22 July 2022",
 				"location": "Surabaya",
@@ -139,7 +142,8 @@
 			"id": 4,
 			"event": {
 				"id": 4,
-				"name": "Event 4",
+				"name": "Reunion",
+				"image": "https://images.unsplash.com/photo-1632494033254-48f55f00304a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cmV1bmlvbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
 				"hosted_by": "user 4",
 				"date": "23 July 2022",
 				"location": "Jambi",
@@ -150,7 +154,8 @@
 			"id": 5,
 			"event": {
 				"id": 5,
-				"name": "Event 5",
+				"name": "Code",
+				"image": "https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Y29kZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
 				"hosted_by": "user 5",
 				"date": "24 July 2022",
 				"location": "Batam",
@@ -161,7 +166,8 @@
 			"id": 6,
 			"event": {
 				"id": 6,
-				"name": "Event 6",
+				"name": "Meeting",
+				"image": "https://images.unsplash.com/photo-1552581234-26160f608093?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8bWVldGluZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
 				"hosted_by": "user 6",
 				"date": "25 July 2022",
 				"location": "Padang",
@@ -172,7 +178,8 @@
 			"id": 7,
 			"event": {
 				"id": 7,
-				"name": "Event 7",
+				"name": "Design",
+				"image": "https://images.unsplash.com/photo-1613909207039-6b173b755cc1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8ZGVzaWduZXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
 				"hosted_by": "user 7",
 				"date": "26 July 2022",
 				"location": "Aceh",
@@ -183,7 +190,8 @@
 			"id": 8,
 			"event": {
 				"id": 8,
-				"name": "Event 8",
+				"name": "Donation",
+				"image": "https://images.unsplash.com/photo-1591522810850-58128c5fb089?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGRvbmF0aW9ufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
 				"hosted_by": "user 8",
 				"date": "27 July 2022",
 				"location": "Palembang",
@@ -194,7 +202,8 @@
 			"id": 9,
 			"event": {
 				"id": 9,
-				"name": "Event 9",
+				"name": "Saving the ocean",
+				"image": "https://images.unsplash.com/photo-1639374550500-e45ebd7167f2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8Y2xlYW5pbmclMjBiZWFjaHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
 				"hosted_by": "user 9",
 				"date": "28 July 2022",
 				"location": "Balikpapan",
@@ -205,7 +214,8 @@
 			"id": 10,
 			"event": {
 				"id": 10,
-				"name": "Event 10",
+				"name": "Wedding",
+				"image": "https://images.unsplash.com/photo-1606800052052-a08af7148866?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8d2VkZGluZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
 				"hosted_by": "user 10",
 				"date": "28 July 2022",
 				"location": "Cileungsi",
